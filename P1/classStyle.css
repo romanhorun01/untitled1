@@ -1,0 +1,30 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background: silver
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background: cadetblue;
+    /*box-sizing: border-box;*/
+    padding: 20px 30px 10px 40px;
+
+    /*overflow: hidden;*/
+    border-top: 10px solid green;
+    border-right: 10px solid black;
+    border-bottom: 10px solid blueviolet;
+    border-left: 10px solid yellow;
+
+}
+
+
+.point {
+    color: gold;
+}

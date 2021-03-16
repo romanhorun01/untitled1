@@ -1,0 +1,89 @@
+html {
+    scroll-behavior: smooth;
+}
+div.h1{
+    text-align: center;
+    color: blueviolet;
+
+}
+
+#t{
+    color: green;
+}
+#t1{
+    color: green;
+}
+#t2{
+    color: green;
+}
+#t3{
+    color: green;
+}
+div.t3{
+    color: tomato;
+}
+.box0{
+
+
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 15px 30px;
+    overflow: hidden;
+    border: 2px solid;
+    border-bottom-width: 4px;
+    color: rgba(30, 255, 188, 1);
+    background: rgba(255, 255, 255, 1);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+.box {
+
+
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 15px 30px;
+    overflow: hidden;
+    border: 2px solid;
+    border-bottom-width: 4px;
+    color: rgba(30, 255, 188, 1);
+    background: rgba(255, 255, 255, 1);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.box1 {
+
+
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 15px 30px;
+    overflow: hidden;
+    border: 2px solid;
+    border-bottom-width: 4px;
+    color: rgba(30, 255, 188, 1);
+    background: rgba(255, 255, 255, 1);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.box2 {
+
+
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 15px 30px;
+    overflow: hidden;
+    border: 2px solid;
+    border-bottom-width: 4px;
+    color: rgba(30, 255, 188, 1);
+    background: rgba(255, 255, 255, 1);
+    font-size: 20px;
+    font-weight: bolder;
+}
+.list{
+    border:aquamarine 3px dashed;
+    width:300px;
+}
+
